@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "temp": "^0.9.4"
+  }
 }
